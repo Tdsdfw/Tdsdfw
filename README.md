@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?color=FFB6C1&type=slice&text=HyerimOh&fontColor=000000&fontSize=70)
 <br/>
-# <div align=center>🔨 Tech Stack 🔨<div>
+# <div align=center>🛠 Tech Stack 🛠<div>
 <br/>
 <div align=center><img src="https://img.shields.io/badge/Javascript-FF8C00?style=flat&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-3178C6?style=flat&logo=React&logoColor=white"/>
